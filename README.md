@@ -12,6 +12,7 @@ The notebooks from our other experiments can be found in `/other notebooks/`, bu
 
 ### BLEU score
 the script we used to calculate BLEU score is `name`
+bleu bleu
 
 ### Visualizations
 All graphs were generated using tensorboard. The tensorboard files are automatically created in the `results/exp_name/runs/` folder
