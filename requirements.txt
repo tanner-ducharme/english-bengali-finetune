@@ -1,0 +1,8 @@
+transformers
+torch
+datasets
+peft
+bitsandbytes
+tqdm
+pandas
+trl
