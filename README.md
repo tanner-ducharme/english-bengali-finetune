@@ -1,9 +1,11 @@
 ## Instructions for running our code
 
+Install the requirements from our requirements.txt
+
 ### Seq2Seq models
 
 ### Gemma models
-The Gemma notebook for our bes experiment is `gemma7b - best experiment.ipynb`
+The Gemma notebook for our best experiment is `gemma7b - best experiment.ipynb`
 it's best run on google colab as a notebook, but a python file version has been made available (although you might have to tweak to get it to work with your GPU)
 
 The notebooks from our other experiments can be found in `/other notebooks/`, but these have not been fully cleaned and/or commented
