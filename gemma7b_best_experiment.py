@@ -22,7 +22,7 @@ we exclusively used a V100 for training
 # """#### paste HF token"""
 
 # from huggingface_hub import notebook_login
-# # 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
+# 
 
 # notebook_login()
 
@@ -201,7 +201,7 @@ exp_name = "gemma-7b-test"
 
 # from huggingface_hub import notebook_login
 
-# # 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
+# 
 
 # notebook_login()
 
