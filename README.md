@@ -4,7 +4,7 @@ Install the requirements from our requirements.txt
 
 ### Encoder-decoder models
 The encoder-decoder notebook for our best experiment is 'ift6289-project-facebook_mbart-large-50-many-to-many-mmt-BNtoEN.ipynb'.
-It's best run on Google Colab as a notebook.
+It's best run on Google Colab as a notebook, but the file has also been uploaded as a `*.py` file.
 
 The notebooks from our other experiments can be found in '/other notebooks/', but these have not been fully cleaned and/or commented.
 More detailed instructions on running the code can be found within the notebook.
