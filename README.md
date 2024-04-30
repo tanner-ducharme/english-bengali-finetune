@@ -2,14 +2,19 @@
 
 Install the requirements from our requirements.txt
 
-### Seq2Seq models
+### Encoder-decoder models
+The encoder-decoder notebook for our best experiment is 'ift6289-project-facebook_mbart-large-50-many-to-many-mmt-BNtoEN.ipynb'.
+It's best run on Google Colab as a notebook.
+
+The notebooks from our other experiments can be found in '/other notebooks/', but these have not been fully cleaned and/or commented.
+More detailed instructions on running the code can be found within the notebook.
 
 ### Gemma models
-The Gemma notebook for our best experiment is `gemma7b - best experiment.ipynb`
-it's best run on google colab as a notebook, but a python file version has been made available (although you might have to tweak to get it to work with your GPU)
+The Gemma notebook for our best experiment is 'gemma7b - best experiment.ipynb'.
+It's best run on google colab as a notebook, but a python file version has been made available (although you might have to tweak to get it to work with your GPU).
 
-The notebooks from our other experiments can be found in `/other notebooks/`, but these have not been fully cleaned and/or commented
-More detailed instructions on the running the code can be found within the notebook.
+The notebooks from our other experiments can be found in '/other notebooks/', but these have not been fully cleaned and/or commented.
+More detailed instructions on running the code can be found within the notebook.
 
 ### BLEU score
 The script we used to calculate BLEU score is multi-bleu-detok.pl.
